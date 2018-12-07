@@ -1,4 +1,4 @@
-# # Times Pan Demo
+# Times Pan Demo
 
 
 ## What's Times Pan?
